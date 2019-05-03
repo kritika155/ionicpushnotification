@@ -1,0 +1,7 @@
+{
+  "name": "ionicpushnotificationdemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
